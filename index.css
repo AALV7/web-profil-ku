@@ -1,0 +1,437 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    
+    
+}
+
+    
+
+
+body {
+    background-color: #D7ECFF;
+    
+}
+
+
+
+
+
+/* grup profil */
+
+.container1 {
+    position: relative;
+    width: 34.51%;
+    height: 42.38%;
+}
+
+.Rectangle4{
+    width: 488.22px;
+    height: 384.81px; 
+    left: 41px; top: 73px; 
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 10px;
+    border: 0.50px  ;
+    background-image: url(../image/DSC_0237.JPG) ;
+    background-size: cover;
+}
+
+.TeksProfil {
+    width: 150px;
+     height: 44px;
+     position: absolute;
+     left: 210px; top: 45px;
+      color: white; 
+      font-size: 36px;
+       font-family: Tiro Devanagari Hindi;
+        font-weight: 400;
+         line-height: 20px;
+         letter-spacing: 3.24px;
+        z-index: 2;
+    
+}
+.KotakUntukTeksProvil {
+    width: 497px;
+    height: 34px;
+    position: absolute;
+    left: 36px; top: 33px;
+    background: linear-gradient(180deg, #3992E6 0%, #006ED7 100%); 
+    border-radius: 8px;
+
+}
+.KotakPutihuntukFoto {
+    width: 497px;
+     height: 403px;
+     position: absolute;
+     top: 60px; left: 36px;
+      background: white;
+       border-radius: 8px;
+       z-index: -2;
+       box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+}
+/* grup profil */
+
+
+
+
+/* grup  my biodata */
+.container2{
+position: relative;
+height: auto;
+width: auto;
+
+
+}
+.KotakMyBiodata {
+    width: 783px;
+    height: 133px;
+    position: relative;
+  }
+  
+  .KotakTeks1 {
+    width: 783px;
+    height: 133px;
+    left: 600px;
+    top: 32px;
+    position: absolute;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+  }
+  
+
+.teks1{
+    position: absolute;
+    left: 610px;
+    top: 54px;
+    font-size: 12px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    line-height: 20px; 
+}
+
+.Teks1 {
+    color: black;
+    
+  }
+  
+  .KotakJudul1 {
+    width: 399px;
+    height: 34px;
+    left: 600px;
+    top: 32px;
+    position: absolute;
+    background: #3992E6;
+    border-radius: 5px;
+  }
+   
+  .Icon {
+    left: 967px;
+    top: 32px;
+    position: absolute;
+
+  }
+  
+  .MyBiodata {
+    width: 373px;
+    height: 26px;
+    left: 610px;
+    top: 39px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 22px;
+    word-wrap: break-word;
+  }
+  /* grup  my biodata */
+
+
+
+
+
+  /* grup Riwayat pendididkan*/
+  .container3 {
+    position: relative;
+
+}
+.KotakRiwayatPendidikan{
+    width: 783px;
+     height: 172px; 
+     position: relative ;
+     left: 605px;
+     top: 290px ;
+     
+}
+
+.KotakTeks2 {
+    width: 783px;
+    height: 172px;
+     left: 600px;
+     top: 290px ;
+    position: absolute;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+}
+.Teks2{
+    width: 755px;
+    height: 136px;
+    left: 610px; 
+    top: 330px;
+    position: absolute;
+    color: black; 
+    font-size: 12px; 
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 30px; 
+    word-wrap: break-word;
+}
+.KotakJudul2 {
+    width: 397.22px;
+    height: 34px;
+    left: 600px;
+    top: 290px;
+    position: absolute;
+    background: #3992E6;
+    border-radius: 5px;
+}
+.RiwayatPendidikan{
+    width: 260px;
+    height: 22px;
+    left: 610px;
+    top: 298px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 22px;
+    word-wrap: break-word;
+}
+.Icon2{
+    width: 18.75px; 
+    height: 21px; 
+    left: 967px; 
+    top: 292px; 
+    position: absolute; 
+}
+
+
+
+ /* grup Riwayat pendididkan*/
+
+
+
+
+
+
+ /*grup tentang aku*/
+
+ .container4{
+position: relative;
+    
+ }
+
+.KotakTeks3{
+    position: absolute;
+    width: 936px; 
+    height: 299px; 
+    top: 533px;
+    left: 37px;
+    background: white; 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+    border-radius: 5px;
+}
+
+.TentangAku{
+    z-index: 3;
+    position: absolute;
+    width: 286px; 
+    height: 31px; 
+    top: 538px;
+    left: 50px;
+    color: white; 
+    font-size: 24px; 
+    font-family: Roboto; 
+    font-weight: 700; 
+    line-height: 22px; 
+    word-wrap: break-word;
+
+}
+
+.KotakJudul3{
+    z-index: 2;
+    position: absolute;
+    top: 533px;
+    left: 37px;
+    width: 397.22px; 
+    height: 31.65px; 
+    background: #3992E6; 
+    border-radius: 5px;
+}
+
+.Teks3{
+    z-index: 3;
+    top: 575px;
+    left: 50px;
+    position: absolute;
+    width: 519px; 
+    height: 262px; 
+    color: black; 
+    font-size: 12px; 
+    font-family: Roboto; 
+    font-weight: 400; 
+    line-height: 22px; 
+    word-wrap: break-word;
+}
+.icon3{
+    z-index: 4;
+    width: 18.75px; 
+    height: 21px; 
+    top: 539px;
+    left: 409px;
+    position: absolute; 
+}
+ .faforit{
+    z-index: 4;
+    top: 574px;
+    left: 618px;
+    position: absolute;
+}
+
+  /*grup tentang aku*/
+
+
+
+
+
+/*grup my social media*/
+
+.container5{
+position: relative;
+}
+     
+
+.KotakTeks4{
+    width: 397px;
+     height: 56px;
+     left:993px; 
+     top: 533px; 
+     position: absolute; 
+     background: white; 
+     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+     border-radius: 5px;
+}
+.MySocialMedia{
+    width: 88px; 
+    height: 12px; 
+    left: 1149px; 
+    top: 543px; 
+    position: absolute; 
+    color: black; 
+    font-size: 12px; 
+    font-family: Roboto; 
+    font-weight: 600; 
+    text-transform: lowercase; 
+    line-height: 0px; 
+    word-wrap: break-word
+}
+
+
+.KotakWa{
+    width: 62px; 
+    height: 16px; 
+    left: 1161px; 
+    top: 565px;
+    position: absolute; 
+    background: linear-gradient(270deg, #00C914 0%, #00A010 100%); border-radius: 3px;
+}
+
+.KotakIg{
+    width: 62px; 
+    height: 16px; 
+    left: 1032px; 
+    top: 565px; 
+    position: absolute; 
+    background: linear-gradient(90deg, #FF00B8 11%, #FFE500 100%); border-radius: 3px;
+}
+.KotakFb{
+    width: 62px; 
+    height: 16px; 
+    left: 1293px; 
+    top: 565px; 
+    position: absolute; 
+    background: linear-gradient(270deg, #0063F9 0%, #003F9E 100%); border-radius: 3px;
+}
+
+.Instagram{
+    z-index: 3;
+    width: 57px; 
+    height: 11px;
+    left: 1035px; 
+    top: 565px; 
+    position: absolute; 
+    color: white; 
+    font-size: 12px; 
+    font-family: Roboto; 
+    font-weight: 700; 
+    text-decoration: underline; 
+    text-transform: lowercase; 
+    word-wrap: break-word;
+}
+
+.Facebook{
+    z-index: 3;
+    width: 56px; 
+    height: 10px; 
+    left: 1299px; 
+    top: 565px; 
+    position: absolute; 
+    color: white; 
+    font-size: 12px; 
+    font-family: Roboto; 
+    font-weight: 700; 
+    text-decoration: underline; 
+    text-transform: lowercase; 
+    word-wrap: break-word;
+}
+
+.Whatsapp{
+    z-index: 3;
+    width: 56px; 
+    height: 11px; 
+    left: 1167px; 
+    top: 565px; 
+    position: absolute; 
+    color: white; 
+    font-size: 12px; 
+    font-family: Roboto;
+    font-weight: 700; 
+    text-decoration: underline;
+    text-transform: lowercase;  
+    word-wrap: break-word;
+}
+
+/*grup my social media*/
+
+
+
+
+
+/*coyright*/
+
+
+.copyright{
+    width: 397px ;
+    height: 224px; 
+    top: 607px;
+    left: 994px;
+    position: absolute;
+}
+a{
+    color: white;
+}
